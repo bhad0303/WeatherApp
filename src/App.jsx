@@ -1,12 +1,12 @@
 import "./App.css";
 import React from "react";
-import SearchBox from "./SearchBox";
+import WeatherApp from "./WeatherApp";
 function App() {
 
 
   return(
         <div>
-           <SearchBox />
+            <WeatherApp />
         </div>
   )
 }
