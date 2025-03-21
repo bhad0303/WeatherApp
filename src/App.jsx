@@ -7,7 +7,7 @@ function App() {
   return(
         <div>
             <WeatherApp />
-            <WeatherApp />
+          
         </div>
   )
 }
